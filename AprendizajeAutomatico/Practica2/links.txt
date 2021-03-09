@@ -1,3 +1,8 @@
+INSTALACION DE TERMUX:
+======================
+https://esgeeks.com/guia-termux-instalacion-comandos/
+
+
 USO DE LA FFT: Extraccion de caracteristicas:
 ======================================================
 https://blog.octo.com/en/time-series-features-extraction-using-fourier-and-wavelet-transforms-on-ecg-data/
