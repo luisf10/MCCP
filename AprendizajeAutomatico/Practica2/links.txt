@@ -1,0 +1,28 @@
+USO DE LA FFT: Extraccion de caracteristicas:
+======================================================
+https://blog.octo.com/en/time-series-features-extraction-using-fourier-and-wavelet-transforms-on-ecg-data/
+
+
+
+Crear Daemons en python:
+==================================================
+https://www.elmundoenbits.com/2014/04/crear-daemon-servicio-python.html
+
+https://www.alibabacloud.com/help/doc-detail/146630.htm
+https://www.youtube.com/watch?v=ua7Xm7NXrDQ
+https://www.youtube.com/watch?v=hEFSaysEIhs&t=887s
+https://www.youtube.com/watch?v=pEv90rO_MD0&t=198s
+
+https://medium.com/coinmonks/real-time-data-transfer-for-iot-with-mqtt-android-and-nodemcu-ae4b01f87be4
+
+https://www.youtube.com/watch?v=IgCfZkR8wME
+https://www.youtube.com/watch?v=hEFSaysEIhs
+
+MQTT:
+=============================
+https://www.blackmagicboxes.com/?p=517
+
+
+Redes Neuronales Python:
+============================
+
